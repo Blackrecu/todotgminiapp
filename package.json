@@ -1,0 +1,14 @@
+{
+  "name": "todotgminiapp",
+  "lockfileVersion": 3,
+  "requires": true,
+  
+  "packages": {
+    "": {
+      "name": "todotgminiapp"
+    }
+  },
+  "scripts": {
+  "dev": "vite"
+}
+}
